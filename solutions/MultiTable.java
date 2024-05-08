@@ -17,5 +17,6 @@ public class MultiTable {
             int product = num * i;
             System.out.println(num + " x " + i + " = " + product);
         }
+        inputData.close();
     }
 }

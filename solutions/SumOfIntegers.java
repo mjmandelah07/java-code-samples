@@ -16,6 +16,8 @@ public class SumOfIntegers {
 
         // Display the sum to user
         System.out.println("The sum of integers from 1 to " + N + " is: " + sum);
+
+        input.close();
     }
 
 }

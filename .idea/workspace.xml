@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/FactorialOfNonNegativeInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/FactorialOfNonNegativeInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/MultiTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/MultiTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/SumOfIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/SumOfIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/WordMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/WordMultiply.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
     "Application.FactorialOfNonNegativeInteger.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiTable.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
     "Application.SumOfIntegers.executor": "Run",
     "Application.WordMultiply.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

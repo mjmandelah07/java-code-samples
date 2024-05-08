@@ -25,6 +25,8 @@ public class WordMultiply {
 
         // call the method
         wordy(word, num);
+
+        WordData.close();
     }
 }
 

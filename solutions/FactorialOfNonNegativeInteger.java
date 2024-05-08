@@ -28,5 +28,8 @@ public class FactorialOfNonNegativeInteger {
 
         // Display the factorial to the user
         System.out.println("The factorial of " + N + " is: " + factorial);
+
+        // Close the scanner to release resources
+        inputData.close();
     }
 }
