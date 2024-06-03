@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Reversestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/SumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +37,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Cars.executor": "Run",
+    "Application.CountWords.executor": "Run",
     "Application.FactorialOfNonNegativeInteger.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiTable.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
+    "Application.Reversestring.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
     "Application.SumOfIntegers.executor": "Run",
     "Application.WordMultiply.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
