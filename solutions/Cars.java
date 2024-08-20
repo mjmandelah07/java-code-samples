@@ -11,6 +11,7 @@ public class Cars {
         System.out.println("Max speed is: " + maxSpeed);
     }
 
+    //  Main method to execute the program
     public static void main(String[] args){
         Cars myCar = new Cars();  // Create a myCar object
         myCar.fullThrottle(); // Call the fullThrottle() method
