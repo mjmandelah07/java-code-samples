@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Java tasks for day one">
-      <change afterPath="$PROJECT_DIR$/solutions/PhoneContact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/Usage.java" afterDir="false" />
+    <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Javaintro documentation">
+      <change afterPath="$PROJECT_DIR$/solutions/JavaDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/JavaVariables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cars.executor": "Run",
-    "Application.CountWords.executor": "Run",
-    "Application.FactorialOfNonNegativeInteger.executor": "Run",
-    "Application.LargestElementInArray.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MultiTable.executor": "Run",
-    "Application.PalindromeChecker.executor": "Run",
-    "Application.RemoveDuplicatesFromArray.executor": "Run",
-    "Application.RemoveElementFromArray.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.Reversestring.executor": "Run",
-    "Application.SimpleCalculator.executor": "Run",
-    "Application.SumOfArray.executor": "Run",
-    "Application.SumOfArray2.executor": "Run",
-    "Application.SumOfIntegers.executor": "Run",
-    "Application.Usage.executor": "Run",
-    "Application.WordMultiply.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/arami/Documents/java-code-samples"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialOfNonNegativeInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElementInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElementFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reversestring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfArray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Usage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordMultiply.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arami/Documents/java-code-samples&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\arami\Documents\java-code-samples\Sum Of Integers" />
@@ -95,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724168267693</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Phone contact program done">
+      <option name="closed" value="true" />
+      <created>1724669259799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724669259799</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Javaintro documentation">
+      <option name="closed" value="true" />
+      <created>1724771682611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724771682611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java tasks for day one" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java tasks for day one" />
+    <MESSAGE value="Phone contact program done" />
+    <MESSAGE value="Javaintro documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javaintro documentation" />
   </component>
 </project>
