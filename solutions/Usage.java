@@ -6,5 +6,7 @@ public class Usage {
         myContacts.getAContact("Mojisola");
         myContacts.removeContact("Sola");
         myContacts.getAllContacts();
+
+        Testing.sum(3, 5);
     }
 }
