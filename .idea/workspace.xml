@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Java documentation">
-      <change afterPath="$PROJECT_DIR$/solutions/JavaLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/JavaListSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/JavaHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/JavaArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/JavaArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726576963172</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Java documentation">
+      <option name="closed" value="true" />
+      <created>1726749678106</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726749678106</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
