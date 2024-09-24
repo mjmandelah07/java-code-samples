@@ -1,4 +1,4 @@
-public class JavaThreads extends Thread  {
+public class JavaThreads extends Thread {
     // Threads allows a program to operate more efficiently by doing multiple things at the same time.
     //
     //Threads can be used to perform complicated tasks in the background without interrupting the main program.
@@ -33,6 +33,7 @@ public class JavaThreads extends Thread  {
         thread.start();
         System.out.println("This code is outside of the thread");
     }
+
     public void run() {
         System.out.println("This code is running in a thread");
     }
@@ -51,5 +52,5 @@ public class JavaThreads extends Thread  {
     //  public void run() {
     //    System.out.println("This code is running in a thread");
     //  }
-    //}
+    //}}
 }
