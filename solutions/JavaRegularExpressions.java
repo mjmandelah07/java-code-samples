@@ -54,7 +54,7 @@ public class JavaRegularExpressions {
         //  \d	            Find a digit
         //  \s	            Find a whitespace character
         //  \b	            Find a match at the beginning of a word like this: \bWORD, or at the end of a word
-        //  \unhex	        Find the Unicode character specified by the hexadecimal number xxxx
+        // 	        Find the Unicode character specified by the hexadecimal number xxxx
 
 
         // Quantifiers

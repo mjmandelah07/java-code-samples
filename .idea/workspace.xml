@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Java documentation">
-      <change afterPath="$PROJECT_DIR$/solutions/JavaAdvanceSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/CountNumberOfWordsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/JavaFileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/SumOfAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/JavaRegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/JavaRegularExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,35 +47,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Cars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterAtIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialOfNonNegativeInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestElementInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveElementFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reversestring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConcatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringContainsSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfArray2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Usage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordMultiply.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arami/Documents/java-code-samples&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cars.executor": "Run",
+    "Application.CharacterAtIndex.executor": "Run",
+    "Application.CountWords.executor": "Run",
+    "Application.FactorialOfNonNegativeInteger.executor": "Run",
+    "Application.JavaFileHandling.executor": "Run",
+    "Application.LargestElementInArray.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultiTable.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.RemoveDuplicatesFromArray.executor": "Run",
+    "Application.RemoveElementFromArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.Reversestring.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.StringConcatenation.executor": "Run",
+    "Application.StringContainsSequence.executor": "Run",
+    "Application.StringLength.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
+    "Application.SumOfArray2.executor": "Run",
+    "Application.SumOfIntegers.executor": "Run",
+    "Application.Usage.executor": "Run",
+    "Application.WordMultiply.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/arami/Documents/java-code-samples"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\arami\Documents\java-code-samples\Sum Of Integers" />
@@ -290,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727205307140</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Java documentation">
+      <option name="closed" value="true" />
+      <created>1727284459084</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727284459084</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
