@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Java documentation">
-      <change afterPath="$PROJECT_DIR$/solutions/ArrayListLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/AverageOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/ConvertStringToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/SmallestElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/SortAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/AreaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/HashMapLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/LoopThroughEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +49,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListLoop.executor": "Run",
     "Application.AverageOfAnArray.executor": "Run",
     "Application.Cars.executor": "Run",
     "Application.CharacterAtIndex.executor": "Run",
     "Application.CountWords.executor": "Run",
     "Application.FactorialOfNonNegativeInteger.executor": "Run",
+    "Application.HashMapLoop.executor": "Run",
     "Application.JavaFileHandling.executor": "Run",
     "Application.LargestElementInArray.executor": "Run",
+    "Application.LoopThroughEnum.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiTable.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
@@ -313,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727442586300</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Java documentation">
+      <option name="closed" value="true" />
+      <created>1727547618123</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727547618123</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
