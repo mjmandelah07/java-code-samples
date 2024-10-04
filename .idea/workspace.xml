@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Java documentation">
-      <change afterPath="$PROJECT_DIR$/assignments/FahrenheitToCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/InchesToMeters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/MinutesToDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/OnlineBankingApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-code-samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-code-samples.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,9 @@
     "Application.LargestElementInArray.executor": "Run",
     "Application.LoopThroughEnum.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MinutesToDays.executor": "Run",
     "Application.MultiTable.executor": "Run",
+    "Application.OnlineBankingApp.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
     "Application.RemoveDuplicatesFromArray.executor": "Run",
     "Application.RemoveElementFromArray.executor": "Run",
@@ -334,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727635505782</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Java documentation">
+      <option name="closed" value="true" />
+      <created>1727821510635</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727821510635</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
