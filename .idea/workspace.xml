@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4227b4db-754f-42ac-a825-4c1ad5ff17cb" name="Changes" comment="Java documentation">
-      <change afterPath="$PROJECT_DIR$/assignments/QuizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignments/CurrencyConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Application.Cars.executor": "Run",
     "Application.CharacterAtIndex.executor": "Run",
     "Application.CountWords.executor": "Run",
+    "Application.CurrencyConverter.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.FactorialOfNonNegativeInteger.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
@@ -82,7 +83,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/arami/Documents/java-code-samples"
+    "last_opened_file_path": "C:/Users/arami/Downloads/mjmandelah-enterprises"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -350,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728057562061</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Java documentation">
+      <option name="closed" value="true" />
+      <created>1728059147920</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1728059147920</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
